@@ -1,0 +1,1159 @@
+{
+    "Countries": [
+        {
+            "CountryID": "2",
+            "LanguageCode": "it_IT",
+            "CountryName": "Albania"
+        },
+        {
+            "CountryID": "3",
+            "LanguageCode": "it_IT",
+            "CountryName": "Algeria"
+        },
+        {
+            "CountryID": "4",
+            "LanguageCode": "it_IT",
+            "CountryName": "Andorra"
+        },
+        {
+            "CountryID": "5",
+            "LanguageCode": "it_IT",
+            "CountryName": "Angola"
+        },
+        {
+            "CountryID": "6",
+            "LanguageCode": "it_IT",
+            "CountryName": "Anguilla"
+        },
+        {
+            "CountryID": "7",
+            "LanguageCode": "it_IT",
+            "CountryName": "Antigua e Barbuda"
+        },
+        {
+            "CountryID": "8",
+            "LanguageCode": "it_IT",
+            "CountryName": "Argentina"
+        },
+        {
+            "CountryID": "9",
+            "LanguageCode": "it_IT",
+            "CountryName": "Aruba"
+        },
+        {
+            "CountryID": "10",
+            "LanguageCode": "it_IT",
+            "CountryName": "Australia"
+        },
+        {
+            "CountryID": "11",
+            "LanguageCode": "it_IT",
+            "CountryName": "Austria"
+        },
+        {
+            "CountryID": "12",
+            "LanguageCode": "it_IT",
+            "CountryName": "Azerbaijan"
+        },
+        {
+            "CountryID": "13",
+            "LanguageCode": "it_IT",
+            "CountryName": "Bahamas"
+        },
+        {
+            "CountryID": "14",
+            "LanguageCode": "it_IT",
+            "CountryName": "Bahrain"
+        },
+        {
+            "CountryID": "15",
+            "LanguageCode": "it_IT",
+            "CountryName": "Bangladesh"
+        },
+        {
+            "CountryID": "16",
+            "LanguageCode": "it_IT",
+            "CountryName": "Barbados"
+        },
+        {
+            "CountryID": "17",
+            "LanguageCode": "it_IT",
+            "CountryName": "Belgio"
+        },
+        {
+            "CountryID": "18",
+            "LanguageCode": "it_IT",
+            "CountryName": "Belize"
+        },
+        {
+            "CountryID": "19",
+            "LanguageCode": "it_IT",
+            "CountryName": "Benin"
+        },
+        {
+            "CountryID": "20",
+            "LanguageCode": "it_IT",
+            "CountryName": "Bermuda"
+        },
+        {
+            "CountryID": "21",
+            "LanguageCode": "it_IT",
+            "CountryName": "Bolivia"
+        },
+        {
+            "CountryID": "22",
+            "LanguageCode": "it_IT",
+            "CountryName": "Botswana"
+        },
+        {
+            "CountryID": "23",
+            "LanguageCode": "it_IT",
+            "CountryName": "Brasile"
+        },
+        {
+            "CountryID": "24",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isole Vergini britanniche"
+        },
+        {
+            "CountryID": "25",
+            "LanguageCode": "it_IT",
+            "CountryName": "Brunei"
+        },
+        {
+            "CountryID": "26",
+            "LanguageCode": "it_IT",
+            "CountryName": "Bulgaria"
+        },
+        {
+            "CountryID": "27",
+            "LanguageCode": "it_IT",
+            "CountryName": "BURKINA FASO"
+        },
+        {
+            "CountryID": "28",
+            "LanguageCode": "it_IT",
+            "CountryName": "Burundi"
+        },
+        {
+            "CountryID": "29",
+            "LanguageCode": "it_IT",
+            "CountryName": "Cambogia"
+        },
+        {
+            "CountryID": "30",
+            "LanguageCode": "it_IT",
+            "CountryName": "Camerun"
+        },
+        {
+            "CountryID": "31",
+            "LanguageCode": "it_IT",
+            "CountryName": "Canada"
+        },
+        {
+            "CountryID": "32",
+            "LanguageCode": "it_IT",
+            "CountryName": "Capo Verde"
+        },
+        {
+            "CountryID": "33",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isole Cayman"
+        },
+        {
+            "CountryID": "35",
+            "LanguageCode": "it_IT",
+            "CountryName": "Chad"
+        },
+        {
+            "CountryID": "36",
+            "LanguageCode": "it_IT",
+            "CountryName": "Chile"
+        },
+        {
+            "CountryID": "37",
+            "LanguageCode": "it_IT",
+            "CountryName": "Cina"
+        },
+        {
+            "CountryID": "38",
+            "LanguageCode": "it_IT",
+            "CountryName": "Colombia"
+        },
+        {
+            "CountryID": "39",
+            "LanguageCode": "it_IT",
+            "CountryName": "Comoros"
+        },
+        {
+            "CountryID": "40",
+            "LanguageCode": "it_IT",
+            "CountryName": "Repubblica del Congo"
+        },
+        {
+            "CountryID": "41",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isole Cook"
+        },
+        {
+            "CountryID": "42",
+            "LanguageCode": "it_IT",
+            "CountryName": "Costa Rica"
+        },
+        {
+            "CountryID": "43",
+            "LanguageCode": "it_IT",
+            "CountryName": "CROAZIA"
+        },
+        {
+            "CountryID": "44",
+            "LanguageCode": "it_IT",
+            "CountryName": "Cuba"
+        },
+        {
+            "CountryID": "45",
+            "LanguageCode": "it_IT",
+            "CountryName": "Cipro"
+        },
+        {
+            "CountryID": "46",
+            "LanguageCode": "it_IT",
+            "CountryName": "Repubblica Ceca"
+        },
+        {
+            "CountryID": "47",
+            "LanguageCode": "it_IT",
+            "CountryName": "Danimarca"
+        },
+        {
+            "CountryID": "48",
+            "LanguageCode": "it_IT",
+            "CountryName": "Gibuti"
+        },
+        {
+            "CountryID": "49",
+            "LanguageCode": "it_IT",
+            "CountryName": "Dominica"
+        },
+        {
+            "CountryID": "50",
+            "LanguageCode": "it_IT",
+            "CountryName": "Repubblica Dominicana"
+        },
+        {
+            "CountryID": "51",
+            "LanguageCode": "it_IT",
+            "CountryName": "Ecuador"
+        },
+        {
+            "CountryID": "52",
+            "LanguageCode": "it_IT",
+            "CountryName": "Egitto"
+        },
+        {
+            "CountryID": "53",
+            "LanguageCode": "it_IT",
+            "CountryName": "El Salvador"
+        },
+        {
+            "CountryID": "54",
+            "LanguageCode": "it_IT",
+            "CountryName": "Guinea Equatoriale"
+        },
+        {
+            "CountryID": "55",
+            "LanguageCode": "it_IT",
+            "CountryName": "Estonia"
+        },
+        {
+            "CountryID": "56",
+            "LanguageCode": "it_IT",
+            "CountryName": "Etiopia"
+        },
+        {
+            "CountryID": "57",
+            "LanguageCode": "it_IT",
+            "CountryName": "Fiji"
+        },
+        {
+            "CountryID": "58",
+            "LanguageCode": "it_IT",
+            "CountryName": "Finlandia"
+        },
+        {
+            "CountryID": "59",
+            "LanguageCode": "it_IT",
+            "CountryName": "Francia"
+        },
+        {
+            "CountryID": "60",
+            "LanguageCode": "it_IT",
+            "CountryName": "Guiana Francese"
+        },
+        {
+            "CountryID": "61",
+            "LanguageCode": "it_IT",
+            "CountryName": "Polinesia francese"
+        },
+        {
+            "CountryID": "62",
+            "LanguageCode": "it_IT",
+            "CountryName": "Gabon"
+        },
+        {
+            "CountryID": "63",
+            "LanguageCode": "it_IT",
+            "CountryName": "Gambia"
+        },
+        {
+            "CountryID": "64",
+            "LanguageCode": "it_IT",
+            "CountryName": "Germania"
+        },
+        {
+            "CountryID": "65",
+            "LanguageCode": "it_IT",
+            "CountryName": "Ghana"
+        },
+        {
+            "CountryID": "66",
+            "LanguageCode": "it_IT",
+            "CountryName": "Gibilterra"
+        },
+        {
+            "CountryID": "67",
+            "LanguageCode": "it_IT",
+            "CountryName": "Grecia"
+        },
+        {
+            "CountryID": "68",
+            "LanguageCode": "it_IT",
+            "CountryName": "Grenada"
+        },
+        {
+            "CountryID": "69",
+            "LanguageCode": "it_IT",
+            "CountryName": "Guadeloupe"
+        },
+        {
+            "CountryID": "70",
+            "LanguageCode": "it_IT",
+            "CountryName": "Guam"
+        },
+        {
+            "CountryID": "71",
+            "LanguageCode": "it_IT",
+            "CountryName": "Guatemala"
+        },
+        {
+            "CountryID": "72",
+            "LanguageCode": "it_IT",
+            "CountryName": "Guinea"
+        },
+        {
+            "CountryID": "73",
+            "LanguageCode": "it_IT",
+            "CountryName": "Guinea-Bissau"
+        },
+        {
+            "CountryID": "74",
+            "LanguageCode": "it_IT",
+            "CountryName": "Guyana"
+        },
+        {
+            "CountryID": "75",
+            "LanguageCode": "it_IT",
+            "CountryName": "Haiti"
+        },
+        {
+            "CountryID": "76",
+            "LanguageCode": "it_IT",
+            "CountryName": "Honduras"
+        },
+        {
+            "CountryID": "77",
+            "LanguageCode": "it_IT",
+            "CountryName": "Hong Kong"
+        },
+        {
+            "CountryID": "78",
+            "LanguageCode": "it_IT",
+            "CountryName": "Ungheria"
+        },
+        {
+            "CountryID": "79",
+            "LanguageCode": "it_IT",
+            "CountryName": "Islanda"
+        },
+        {
+            "CountryID": "80",
+            "LanguageCode": "it_IT",
+            "CountryName": "India"
+        },
+        {
+            "CountryID": "81",
+            "LanguageCode": "it_IT",
+            "CountryName": "Indonesia"
+        },
+        {
+            "CountryID": "84",
+            "LanguageCode": "it_IT",
+            "CountryName": "Irlanda"
+        },
+        {
+            "CountryID": "85",
+            "LanguageCode": "it_IT",
+            "CountryName": "Israele"
+        },
+        {
+            "CountryID": "86",
+            "LanguageCode": "it_IT",
+            "CountryName": "Italia"
+        },
+        {
+            "CountryID": "87",
+            "LanguageCode": "it_IT",
+            "CountryName": "Costa d&#39;Avorio"
+        },
+        {
+            "CountryID": "88",
+            "LanguageCode": "it_IT",
+            "CountryName": "Giamaica"
+        },
+        {
+            "CountryID": "89",
+            "LanguageCode": "it_IT",
+            "CountryName": "Giappone"
+        },
+        {
+            "CountryID": "90",
+            "LanguageCode": "it_IT",
+            "CountryName": "Giordania"
+        },
+        {
+            "CountryID": "91",
+            "LanguageCode": "it_IT",
+            "CountryName": "Kazakistan"
+        },
+        {
+            "CountryID": "92",
+            "LanguageCode": "it_IT",
+            "CountryName": "Kenia"
+        },
+        {
+            "CountryID": "93",
+            "LanguageCode": "it_IT",
+            "CountryName": "Kiribati"
+        },
+        {
+            "CountryID": "94",
+            "LanguageCode": "it_IT",
+            "CountryName": "Corea del Sud"
+        },
+        {
+            "CountryID": "95",
+            "LanguageCode": "it_IT",
+            "CountryName": "Kuwait"
+        },
+        {
+            "CountryID": "96",
+            "LanguageCode": "it_IT",
+            "CountryName": "Laos"
+        },
+        {
+            "CountryID": "97",
+            "LanguageCode": "it_IT",
+            "CountryName": "Lettonia"
+        },
+        {
+            "CountryID": "98",
+            "LanguageCode": "it_IT",
+            "CountryName": "Libano"
+        },
+        {
+            "CountryID": "99",
+            "LanguageCode": "it_IT",
+            "CountryName": "Lesoto"
+        },
+        {
+            "CountryID": "100",
+            "LanguageCode": "it_IT",
+            "CountryName": "Liberia"
+        },
+        {
+            "CountryID": "101",
+            "LanguageCode": "it_IT",
+            "CountryName": "Libia"
+        },
+        {
+            "CountryID": "102",
+            "LanguageCode": "it_IT",
+            "CountryName": "Lituania"
+        },
+        {
+            "CountryID": "103",
+            "LanguageCode": "it_IT",
+            "CountryName": "Lussemburgo"
+        },
+        {
+            "CountryID": "104",
+            "LanguageCode": "it_IT",
+            "CountryName": "Macau"
+        },
+        {
+            "CountryID": "105",
+            "LanguageCode": "it_IT",
+            "CountryName": "F.Y.R.O. Macedonia"
+        },
+        {
+            "CountryID": "106",
+            "LanguageCode": "it_IT",
+            "CountryName": "Madagascar"
+        },
+        {
+            "CountryID": "107",
+            "LanguageCode": "it_IT",
+            "CountryName": "Malawi"
+        },
+        {
+            "CountryID": "108",
+            "LanguageCode": "it_IT",
+            "CountryName": "Malaysia"
+        },
+        {
+            "CountryID": "109",
+            "LanguageCode": "it_IT",
+            "CountryName": "Maldive"
+        },
+        {
+            "CountryID": "110",
+            "LanguageCode": "it_IT",
+            "CountryName": "Mali"
+        },
+        {
+            "CountryID": "111",
+            "LanguageCode": "it_IT",
+            "CountryName": "Malta"
+        },
+        {
+            "CountryID": "112",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isole Marianne settentrionali"
+        },
+        {
+            "CountryID": "113",
+            "LanguageCode": "it_IT",
+            "CountryName": "Martinique"
+        },
+        {
+            "CountryID": "114",
+            "LanguageCode": "it_IT",
+            "CountryName": "Mauritania"
+        },
+        {
+            "CountryID": "115",
+            "LanguageCode": "it_IT",
+            "CountryName": "Mauritius"
+        },
+        {
+            "CountryID": "116",
+            "LanguageCode": "it_IT",
+            "CountryName": "Mayotte"
+        },
+        {
+            "CountryID": "117",
+            "LanguageCode": "it_IT",
+            "CountryName": "Messico"
+        },
+        {
+            "CountryID": "118",
+            "LanguageCode": "it_IT",
+            "CountryName": "Stati federati di Micronesia"
+        },
+        {
+            "CountryID": "120",
+            "LanguageCode": "it_IT",
+            "CountryName": "Monaco"
+        },
+        {
+            "CountryID": "121",
+            "LanguageCode": "it_IT",
+            "CountryName": "Montserrat"
+        },
+        {
+            "CountryID": "122",
+            "LanguageCode": "it_IT",
+            "CountryName": "Marocco"
+        },
+        {
+            "CountryID": "123",
+            "LanguageCode": "it_IT",
+            "CountryName": "Mozambico"
+        },
+        {
+            "CountryID": "124",
+            "LanguageCode": "it_IT",
+            "CountryName": "MYANMAR"
+        },
+        {
+            "CountryID": "125",
+            "LanguageCode": "it_IT",
+            "CountryName": "Namibia"
+        },
+        {
+            "CountryID": "126",
+            "LanguageCode": "it_IT",
+            "CountryName": "Nauru"
+        },
+        {
+            "CountryID": "127",
+            "LanguageCode": "it_IT",
+            "CountryName": "Nepal"
+        },
+        {
+            "CountryID": "129",
+            "LanguageCode": "it_IT",
+            "CountryName": "Olanda"
+        },
+        {
+            "CountryID": "130",
+            "LanguageCode": "it_IT",
+            "CountryName": "St. Kitts e Nevis"
+        },
+        {
+            "CountryID": "131",
+            "LanguageCode": "it_IT",
+            "CountryName": "Nuova Caledonia"
+        },
+        {
+            "CountryID": "132",
+            "LanguageCode": "it_IT",
+            "CountryName": "Papua Nuova Guinea"
+        },
+        {
+            "CountryID": "133",
+            "LanguageCode": "it_IT",
+            "CountryName": "NUOVA ZELANDA"
+        },
+        {
+            "CountryID": "134",
+            "LanguageCode": "it_IT",
+            "CountryName": "Nicaragua"
+        },
+        {
+            "CountryID": "135",
+            "LanguageCode": "it_IT",
+            "CountryName": "Niger"
+        },
+        {
+            "CountryID": "136",
+            "LanguageCode": "it_IT",
+            "CountryName": "Nigeria"
+        },
+        {
+            "CountryID": "137",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isola Norfolk"
+        },
+        {
+            "CountryID": "138",
+            "LanguageCode": "it_IT",
+            "CountryName": "NORVEGIA"
+        },
+        {
+            "CountryID": "139",
+            "LanguageCode": "it_IT",
+            "CountryName": "Oman"
+        },
+        {
+            "CountryID": "140",
+            "LanguageCode": "it_IT",
+            "CountryName": "Pakistan"
+        },
+        {
+            "CountryID": "141",
+            "LanguageCode": "it_IT",
+            "CountryName": "Palau"
+        },
+        {
+            "CountryID": "142",
+            "LanguageCode": "it_IT",
+            "CountryName": "Panama"
+        },
+        {
+            "CountryID": "143",
+            "LanguageCode": "it_IT",
+            "CountryName": "Paraguay"
+        },
+        {
+            "CountryID": "144",
+            "LanguageCode": "it_IT",
+            "CountryName": "Perù"
+        },
+        {
+            "CountryID": "145",
+            "LanguageCode": "it_IT",
+            "CountryName": "Filippine"
+        },
+        {
+            "CountryID": "146",
+            "LanguageCode": "it_IT",
+            "CountryName": "Polonia"
+        },
+        {
+            "CountryID": "147",
+            "LanguageCode": "it_IT",
+            "CountryName": "PORTOGALLO"
+        },
+        {
+            "CountryID": "148",
+            "LanguageCode": "it_IT",
+            "CountryName": "Porto Rico"
+        },
+        {
+            "CountryID": "149",
+            "LanguageCode": "it_IT",
+            "CountryName": "Qatar"
+        },
+        {
+            "CountryID": "150",
+            "LanguageCode": "it_IT",
+            "CountryName": "Riunione"
+        },
+        {
+            "CountryID": "151",
+            "LanguageCode": "it_IT",
+            "CountryName": "Romania"
+        },
+        {
+            "CountryID": "153",
+            "LanguageCode": "it_IT",
+            "CountryName": "Russia"
+        },
+        {
+            "CountryID": "154",
+            "LanguageCode": "it_IT",
+            "CountryName": "Ruanda"
+        },
+        {
+            "CountryID": "155",
+            "LanguageCode": "it_IT",
+            "CountryName": "Samoa"
+        },
+        {
+            "CountryID": "156",
+            "LanguageCode": "it_IT",
+            "CountryName": "Sao Tome e Principe"
+        },
+        {
+            "CountryID": "157",
+            "LanguageCode": "it_IT",
+            "CountryName": "Arabia Saudita"
+        },
+        {
+            "CountryID": "158",
+            "LanguageCode": "it_IT",
+            "CountryName": "Senegal"
+        },
+        {
+            "CountryID": "159",
+            "LanguageCode": "it_IT",
+            "CountryName": "Seychelles"
+        },
+        {
+            "CountryID": "160",
+            "LanguageCode": "it_IT",
+            "CountryName": "Sierra Leone"
+        },
+        {
+            "CountryID": "161",
+            "LanguageCode": "it_IT",
+            "CountryName": "Singapore"
+        },
+        {
+            "CountryID": "162",
+            "LanguageCode": "it_IT",
+            "CountryName": "Slovacchia"
+        },
+        {
+            "CountryID": "163",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isole Salomone"
+        },
+        {
+            "CountryID": "165",
+            "LanguageCode": "it_IT",
+            "CountryName": "Sud Africa"
+        },
+        {
+            "CountryID": "166",
+            "LanguageCode": "it_IT",
+            "CountryName": "Spagna"
+        },
+        {
+            "CountryID": "167",
+            "LanguageCode": "it_IT",
+            "CountryName": "Sri Lanka"
+        },
+        {
+            "CountryID": "168",
+            "LanguageCode": "it_IT",
+            "CountryName": "Santa Lucia"
+        },
+        {
+            "CountryID": "169",
+            "LanguageCode": "it_IT",
+            "CountryName": "St. Vincent e Grenadine"
+        },
+        {
+            "CountryID": "171",
+            "LanguageCode": "it_IT",
+            "CountryName": "Suriname"
+        },
+        {
+            "CountryID": "172",
+            "LanguageCode": "it_IT",
+            "CountryName": "Swaziland"
+        },
+        {
+            "CountryID": "173",
+            "LanguageCode": "it_IT",
+            "CountryName": "Svezia"
+        },
+        {
+            "CountryID": "174",
+            "LanguageCode": "it_IT",
+            "CountryName": "Svizzera"
+        },
+        {
+            "CountryID": "176",
+            "LanguageCode": "it_IT",
+            "CountryName": "Taiwan"
+        },
+        {
+            "CountryID": "177",
+            "LanguageCode": "it_IT",
+            "CountryName": "Tanzania"
+        },
+        {
+            "CountryID": "178",
+            "LanguageCode": "it_IT",
+            "CountryName": "Tailandia"
+        },
+        {
+            "CountryID": "179",
+            "LanguageCode": "it_IT",
+            "CountryName": "Andare"
+        },
+        {
+            "CountryID": "180",
+            "LanguageCode": "it_IT",
+            "CountryName": "Tonga"
+        },
+        {
+            "CountryID": "181",
+            "LanguageCode": "it_IT",
+            "CountryName": "TRINIDAD E TOBAGO"
+        },
+        {
+            "CountryID": "182",
+            "LanguageCode": "it_IT",
+            "CountryName": "Tunisia"
+        },
+        {
+            "CountryID": "183",
+            "LanguageCode": "it_IT",
+            "CountryName": "tacchino"
+        },
+        {
+            "CountryID": "184",
+            "LanguageCode": "it_IT",
+            "CountryName": "Turks e Caicos"
+        },
+        {
+            "CountryID": "185",
+            "LanguageCode": "it_IT",
+            "CountryName": "Tuvalu"
+        },
+        {
+            "CountryID": "186",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isole Vergini americane"
+        },
+        {
+            "CountryID": "187",
+            "LanguageCode": "it_IT",
+            "CountryName": "Uganda"
+        },
+        {
+            "CountryID": "188",
+            "LanguageCode": "it_IT",
+            "CountryName": "Ucraina"
+        },
+        {
+            "CountryID": "189",
+            "LanguageCode": "it_IT",
+            "CountryName": "Emirati Arabi Uniti"
+        },
+        {
+            "CountryID": "190",
+            "LanguageCode": "it_IT",
+            "CountryName": "Regno Unito"
+        },
+        {
+            "CountryID": "191",
+            "LanguageCode": "it_IT",
+            "CountryName": "Uruguay"
+        },
+        {
+            "CountryID": "192",
+            "LanguageCode": "it_IT",
+            "CountryName": "Vanuatu"
+        },
+        {
+            "CountryID": "193",
+            "LanguageCode": "it_IT",
+            "CountryName": "Venezuela"
+        },
+        {
+            "CountryID": "194",
+            "LanguageCode": "it_IT",
+            "CountryName": "Vietnam"
+        },
+        {
+            "CountryID": "197",
+            "LanguageCode": "it_IT",
+            "CountryName": "Serbia"
+        },
+        {
+            "CountryID": "198",
+            "LanguageCode": "it_IT",
+            "CountryName": "Repubblica democratica del Congo"
+        },
+        {
+            "CountryID": "199",
+            "LanguageCode": "it_IT",
+            "CountryName": "Zambia"
+        },
+        {
+            "CountryID": "200",
+            "LanguageCode": "it_IT",
+            "CountryName": "Zimbabwe"
+        },
+        {
+            "CountryID": "201",
+            "LanguageCode": "it_IT",
+            "CountryName": "Stati Uniti d&#39;America"
+        },
+        {
+            "CountryID": "11107",
+            "LanguageCode": "it_IT",
+            "CountryName": "Groenlandia"
+        },
+        {
+            "CountryID": "11398",
+            "LanguageCode": "it_IT",
+            "CountryName": "Armenia"
+        },
+        {
+            "CountryID": "11399",
+            "LanguageCode": "it_IT",
+            "CountryName": "Samoa americane"
+        },
+        {
+            "CountryID": "11400",
+            "LanguageCode": "it_IT",
+            "CountryName": "Bhutan"
+        },
+        {
+            "CountryID": "11401",
+            "LanguageCode": "it_IT",
+            "CountryName": "Bielorussia"
+        },
+        {
+            "CountryID": "11402",
+            "LanguageCode": "it_IT",
+            "CountryName": "l&#39;Eritrea"
+        },
+        {
+            "CountryID": "11403",
+            "LanguageCode": "it_IT",
+            "CountryName": "Georgia"
+        },
+        {
+            "CountryID": "11404",
+            "LanguageCode": "it_IT",
+            "CountryName": "Kyrgyzstan"
+        },
+        {
+            "CountryID": "11405",
+            "LanguageCode": "it_IT",
+            "CountryName": "Liechtenstein"
+        },
+        {
+            "CountryID": "11406",
+            "LanguageCode": "it_IT",
+            "CountryName": "Moldova"
+        },
+        {
+            "CountryID": "11407",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isole Marshall"
+        },
+        {
+            "CountryID": "11408",
+            "LanguageCode": "it_IT",
+            "CountryName": "Mongolia"
+        },
+        {
+            "CountryID": "11409",
+            "LanguageCode": "it_IT",
+            "CountryName": "Niue"
+        },
+        {
+            "CountryID": "11410",
+            "LanguageCode": "it_IT",
+            "CountryName": "Tajikistan"
+        },
+        {
+            "CountryID": "11411",
+            "LanguageCode": "it_IT",
+            "CountryName": "Turkmenistan"
+        },
+        {
+            "CountryID": "11412",
+            "LanguageCode": "it_IT",
+            "CountryName": "Uzbekistan"
+        },
+        {
+            "CountryID": "11413",
+            "LanguageCode": "it_IT",
+            "CountryName": "Slovenia"
+        },
+        {
+            "CountryID": "11414",
+            "LanguageCode": "it_IT",
+            "CountryName": "Bosnia Erzegovina"
+        },
+        {
+            "CountryID": "11702",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isola Bouvet"
+        },
+        {
+            "CountryID": "11704",
+            "LanguageCode": "it_IT",
+            "CountryName": "Territorio britannico dell&#39;Oceano Indiano"
+        },
+        {
+            "CountryID": "11706",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isola di Natale"
+        },
+        {
+            "CountryID": "11708",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isole Cocos"
+        },
+        {
+            "CountryID": "11711",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isole Falkland"
+        },
+        {
+            "CountryID": "11712",
+            "LanguageCode": "it_IT",
+            "CountryName": "Territori francesi meridionali e antartici"
+        },
+        {
+            "CountryID": "11713",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isole Heard e McDonald"
+        },
+        {
+            "CountryID": "11714",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isole Faroe"
+        },
+        {
+            "CountryID": "11718",
+            "LanguageCode": "it_IT",
+            "CountryName": "Pitcairn Island"
+        },
+        {
+            "CountryID": "11719",
+            "LanguageCode": "it_IT",
+            "CountryName": "St. Pierre e Miquelon"
+        },
+        {
+            "CountryID": "11720",
+            "LanguageCode": "it_IT",
+            "CountryName": "San Marino"
+        },
+        {
+            "CountryID": "11721",
+            "LanguageCode": "it_IT",
+            "CountryName": "Sant&#39;Elena"
+        },
+        {
+            "CountryID": "11722",
+            "LanguageCode": "it_IT",
+            "CountryName": "Svalbard"
+        },
+        {
+            "CountryID": "11723",
+            "LanguageCode": "it_IT",
+            "CountryName": "Tokelau"
+        },
+        {
+            "CountryID": "11724",
+            "LanguageCode": "it_IT",
+            "CountryName": "Città del Vaticano"
+        },
+        {
+            "CountryID": "11725",
+            "LanguageCode": "it_IT",
+            "CountryName": "Wallis e Futuna"
+        },
+        {
+            "CountryID": "11726",
+            "LanguageCode": "it_IT",
+            "CountryName": "Stato della Palestina"
+        },
+        {
+            "CountryID": "6051403",
+            "LanguageCode": "it_IT",
+            "CountryName": "Montenegro"
+        },
+        {
+            "CountryID": "6069953",
+            "LanguageCode": "it_IT",
+            "CountryName": "St. Barthelemy"
+        },
+        {
+            "CountryID": "6069955",
+            "LanguageCode": "it_IT",
+            "CountryName": "San Martino"
+        },
+        {
+            "CountryID": "6143084",
+            "LanguageCode": "it_IT",
+            "CountryName": "Bonaire, Sint Eustatius e Saba"
+        },
+        {
+            "CountryID": "6143269",
+            "LanguageCode": "it_IT",
+            "CountryName": "Curacao"
+        },
+        {
+            "CountryID": "6143274",
+            "LanguageCode": "it_IT",
+            "CountryName": "Sint Maarten"
+        },
+        {
+            "CountryID": "6190474",
+            "LanguageCode": "it_IT",
+            "CountryName": "Isole minori secondarie degli Stati Uniti"
+        }
+    ]
+}
