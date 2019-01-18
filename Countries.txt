@@ -1,0 +1,11 @@
+CountryID	LanguageCode	CountryName
+2	en_US	Albania
+3	en_US	Algeria
+4	en_US	Andorra
+5	en_US	Angola
+6	en_US	Anguilla
+7	en_US	Antigua and Barbuda
+8	en_US	Argentina
+9	en_US	Aruba
+10	en_US	Australia
+11	en_US	Austria
